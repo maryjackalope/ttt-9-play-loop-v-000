@@ -44,3 +44,4 @@ def play(board)
     nturns += 1
   end
 end
+
